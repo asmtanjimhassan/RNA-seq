@@ -1,0 +1,96 @@
+{
+    "debugBreakpointsState": {
+        "breakpoints": [
+            {
+                "id": 1,
+                "path": "D:/Bioinformatics/RNA-seq/Bulk_RNA-seq_Data_analysis/02_Visualizing_Gene_Expression_Data.R",
+                "line_number": 11,
+                "function_steps": "",
+                "function_name": "toplevel",
+                "state": 1,
+                "editor_state": 1,
+                "editor_line_number": 11,
+                "is_pending_debug_completion": false,
+                "needs_updated_steps": false,
+                "type": 1,
+                "is_package_breakpoint": false,
+                "package_name": ""
+            },
+            {
+                "id": 2,
+                "path": "D:/Bioinformatics/RNA-seq/Bulk_RNA-seq_Data_analysis/02_Visualizing_Gene_Expression_Data.R",
+                "line_number": 23,
+                "function_steps": "",
+                "function_name": "toplevel",
+                "state": 1,
+                "editor_state": 1,
+                "editor_line_number": 23,
+                "is_pending_debug_completion": false,
+                "needs_updated_steps": false,
+                "type": 1,
+                "is_package_breakpoint": false,
+                "package_name": ""
+            },
+            {
+                "id": 4,
+                "path": "D:/Bioinformatics/Gene_Expression_Analysis/lec04_Converting_EnsemblID_geneSymbol.R",
+                "line_number": 4,
+                "function_steps": "",
+                "function_name": "toplevel",
+                "state": 1,
+                "editor_state": 1,
+                "editor_line_number": 4,
+                "is_pending_debug_completion": false,
+                "needs_updated_steps": false,
+                "type": 1,
+                "is_package_breakpoint": false,
+                "package_name": ""
+            },
+            {
+                "id": 6,
+                "path": "D:/Bioinformatics/RNA-seq/Bulk_RNA-seq_Data_analysis/04_pathway_enrichment_analysis.R",
+                "line_number": 14,
+                "function_steps": "",
+                "function_name": "toplevel",
+                "state": 1,
+                "editor_state": 1,
+                "editor_line_number": 14,
+                "is_pending_debug_completion": false,
+                "needs_updated_steps": false,
+                "type": 1,
+                "is_package_breakpoint": false,
+                "package_name": ""
+            },
+            {
+                "id": 9,
+                "path": "D:/Bioinformatics/RNA-seq/Bulk_RNA-seq_Data_analysis/05_visualizing_pathway_enrichment.R",
+                "line_number": 73,
+                "function_steps": "",
+                "function_name": "toplevel",
+                "state": 1,
+                "editor_state": 1,
+                "editor_line_number": 73,
+                "is_pending_debug_completion": false,
+                "needs_updated_steps": false,
+                "type": 1,
+                "is_package_breakpoint": false,
+                "package_name": ""
+            },
+            {
+                "id": 10,
+                "path": "D:/Bioinformatics/RNA-seq/Bulk_RNA-seq_Data_analysis/06_gene_set_enrichment_analysis.R",
+                "line_number": 2,
+                "function_steps": "",
+                "function_name": "toplevel",
+                "state": 1,
+                "editor_state": 1,
+                "editor_line_number": 2,
+                "is_pending_debug_completion": false,
+                "needs_updated_steps": false,
+                "type": 1,
+                "is_package_breakpoint": false,
+                "package_name": ""
+            }
+        ]
+    }
+}
